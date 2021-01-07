@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "StopWatch"
+  "defaultProject": "StopWatch",
+  "cli": {
+    "analytics": false
+  }
 }
